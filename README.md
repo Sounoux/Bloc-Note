@@ -1,2 +1,2 @@
 # Bloc-Note
-Réservation de chambres d'hôtel
+Prise de notes, pense-bêtes, memo
